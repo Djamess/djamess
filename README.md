@@ -1,5 +1,8 @@
 ## Olá! Eu sou o Djames Kristofer
 
+- Um pouco sobre mim: Tenho facilidade em trabalhar em equipe e em aprender, não tenho preguiça, sou proativo, me comunico bem, preciso apenas de uma ajuda para começar nessa carreira e mostrar para o mundo o que posso fazer!
+
+##
 
 - 🔭 Hoje estou trabalhando como desenvolvedor mobile, utilizando React Native, JavaScript, css, etc e suporte do sistema, aplicativo e site 
 - 🌱 Estou estudando sobre programação mobile e também web, envolvendo react native, javascript, css e afins
