@@ -4,7 +4,7 @@
 
 ##
 
-- 🔭 Hoje estou trabalhando como desenvolvedor mobile, utilizando React Native, JavaScript, css, etc e suporte do sistema, aplicativo e site 
+- 🔭 Hoje estou trabalhando como suporte do sistema, aplicativo e site 
 - 🌱 Estou estudando sobre programação mobile e também web, envolvendo react native, javascript, css e afins
 - 😄 Pronomes: ele/dele
 
